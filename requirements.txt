@@ -1,5 +1,4 @@
-aiogram==2.25.1
-aiosqlite==0.20.0
-python-dotenv==1.0.1
-pydantic==1.10.13
-typing-extensions==4.8.0
+aiogram==3.4.1
+groq
+aiosqlite
+python-dotenv
